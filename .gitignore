@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+.env
+
+# Data and model artifacts
+*.pkl
+*.xlsx
+*.csv
+
+# Build and local output
+.dist/
+
+# Laravel
+laravel-app/vendor/
+laravel-app/node_modules/
+laravel-app/storage/*.key
+laravel-app/bootstrap/cache/*.php
+laravel-app/.env
+laravel-app/public/hot
+laravel-app/public/storage
+
+# OS / Editor
+.DS_Store
+Thumbs.db
