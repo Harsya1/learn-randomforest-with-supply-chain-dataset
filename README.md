@@ -112,7 +112,3 @@ Buka dashboard:
 ### Could not open input file: artisan
 
 - Pastikan perintah `php artisan ...` dijalankan dari folder `laravel-app`
-
-## Catatan Git
-
-- File lokal besar/sensitif seperti `.venv`, dataset (`.xlsx/.csv`), model (`.pkl`), dan `laravel-app/.env` sudah diatur di `.gitignore`.
